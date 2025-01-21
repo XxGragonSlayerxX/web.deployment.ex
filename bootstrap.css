@@ -1,0 +1,91 @@
+.container{
+    margin-top: 20px;
+    height: 500px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.bisabuelo {
+    height: 100%;
+}
+
+.horario {
+    height: 100%;
+    background-color: rgba(213, 213, 213, 0.884);
+}
+
+.horario h1 {
+    writing-mode: vertical-rl;
+}
+
+.abuelo {
+    height: 100%;
+}
+
+.dias {
+    background-color: white;
+    height: 7%;
+}
+
+.dia:nth-child(even) {
+    background-color: #f0efef;   
+}
+
+.padre {
+    height: 93%;
+}
+
+.hora {
+    height: 15.5%;
+}
+
+.hora:nth-child(odd) {
+    background-color: #f0efef;
+}
+
+.patio {
+    height: 7%;
+}
+
+.hora3 {
+    height: 46.5%;
+}
+
+.clase2 {
+    height: 66.666666667%;
+}
+
+
+
+.clase1 {
+    height: 33.333333333%;
+}
+
+.DIW {
+    background-color: aqua;
+}
+
+.ING {
+    background-color: #FFEB99;
+}
+
+.EIE {
+    background-color: #ffd1ba;
+}
+
+.DWEC {
+    background-color: #b8f2e6;
+}
+
+.DAW {
+    background-color: #dcc7ff;
+}
+
+.DWESA {
+    background-color: #add8e6;
+}
+
+.DWESM {
+    background-color: #ffc0cb;
+}
+
